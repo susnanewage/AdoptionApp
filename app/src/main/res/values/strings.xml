@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adoption App</string>
+    <string name="sex">Sex</string>
+    <string name="orgin">Orgin</string>
+    <string name="color">Color</string>
+    <string name="overView">Overview</string>
+</resources>
